@@ -17,7 +17,7 @@ def get_rate(src: str, tgt: str) -> float:
 
 	return rate
 
-@mcp.tool
+@mcp.tool()
 def conver(val: float, src: str, tgt: str) -> float:
 	"""
 	src和tgt均为币种的英文缩写
