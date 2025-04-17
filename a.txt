@@ -1,0 +1,1389 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z78ZRB63GS"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-Z78ZRB63GS');
+</script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2933058854110899" crossorigin="anonymous"></script>
+
+
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="robots" content="index,follow"/>
+    <meta name="distribution" content="global"/>
+    <meta name="description" content="&#x8F6C;&#x6362; USD &#x4E3A; CNY &#x8D27;&#x5E01;: &#x7F8E;&#x5143; (USD), &#x56FD;&#x5BB6;&#xFF1A;&#x7F8E;&#x56FD;&#xFF0C;&#x6D32;&#xFF1A;&#x5317;&#x7F8E;&#x6D32;, &#x8D27;&#x5E01;: &#x4EBA;&#x6C11;&#x5E01; (CNY), &#x56FD;&#x5BB6;&#xFF1A;&#x4E2D;&#x56FD;&#xFF0C;&#x6D32;&#xFF1A;&#x4E9A;&#x6D32;"/>
+    <meta name="keywords" content="USD,&#x7F8E;&#x5143;,&#x7F8E;&#x56FD;,&#x5317;&#x7F8E;&#x6D32;,CNY,&#x4EBA;&#x6C11;&#x5E01;,&#x4E2D;&#x56FD;,&#x4E9A;&#x6D32;"/>
+    <meta name="area" content="zh-CN"/>
+    <meta name="copyright" content="themoneyconverter 2025"/>
+    <title lang="zh-CN" dir="ltr">&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A; &#x4EBA;&#x6C11;&#x5E01; | USD &#x4E3A; CNY &#x6C47;&#x7387;&#x8F6C;&#x6362;&#x5DE5;&#x5177;</title>
+    <base href="https://themoneyconverter.com"/>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+    <link rel="alternate" hreflang="en-US" href="https://themoneyconverter.com/USD/CNY"/>
+    <link rel="alternate" hreflang="es-ES" href="https://themoneyconverter.com/es/USD/CNY"/>
+    <link rel="alternate" hreflang="de-DE" href="https://themoneyconverter.com/de/USD/CNY"/>
+    <link rel="alternate" hreflang="fr-FR" href="https://themoneyconverter.com/fr/USD/CNY"/>
+    <link rel="alternate" hreflang="zh-CN" href="https://themoneyconverter.com/zh-CN/USD/CNY"/>
+    <link rel="canonical" href="https://themoneyconverter.com/zh-CN/USD/CNY"/>
+        <link rel="stylesheet" href="https://themoneyconverter.com/css/tmc-13.3.min.css" type="text/css" media="screen"/>
+
+
+
+</head>
+<body>
+    <header b-unfh2f7zx5>
+        <a href="https://themoneyconverter.com/zh-CN" title="The Money Converter">
+    <img src="/images/logo.svg" alt="Logo" />
+</a>
+<h1>&#x8F6C;&#x6362; &#x7F8E;&#x5143;(USD) &#x4E3A;&#x4EBA;&#x6C11;&#x5E01;(CNY)</h1>
+    </header>
+
+    
+            <div class="adslot ">
+<!-- CN_CurrencyPair_Slot1 -->            <ins class="adsbygoogle adstyle" data-ad-client="ca-pub-2933058854110899" data-ad-slot="3222261708" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+                <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+        </div>
+
+
+    <main>
+
+        <div class="row">
+
+    <div class="left tab-control">
+    <ul class="tabs">
+                <li>
+                    <a title="&#x6C47;&#x7387;&#x8F6C;&#x6362;&#x5DE5;&#x5177;" class="selected" href="/zh-CN/USD/CNY#currency-converter">&#x6C47;&#x7387;&#x8F6C;&#x6362;&#x5DE5;&#x5177;</a>
+                </li>
+                <li>
+                    <a title="USD &#x6C47;&#x7387;" class="hide" href="/zh-CN/USD/CNY#exchange-rates">USD &#x6C47;&#x7387;</a>
+                </li>
+    </ul>
+
+    <form class="tab-content">
+<div class="tab-panel selected">
+    <output>1 USD = 7.35 CNY</output>
+    <div class="cc-invert">
+        <a title="Switch currencies" href="/zh-CN/CNY/USD">invert currencies</a>
+    </div>
+    <div id="ta" class="amount-control">
+        <input accesskey="a" type="number" maxlength="15" min="0" step="any" placeholder="&#x8F93;&#x5165;&#x91D1;&#x989D;"/>
+        <button type="button" disabled="disabled">x</button>
+    </div>
+    <hr/>
+    <div id="df" class="dd-control" data-value="USD" data-action="Sell">
+        <label title="&#x9ED8;&#x8BA4;&#x8D27;&#x5E01;&#xFF08;&#x8F6C;&#x6362;&#x4ECE;&#xFF09;">&#x4ECE;</label>
+        <button accesskey="s" type="button" title="Sell USD - &#x7F8E;&#x5143;">USD - &#x7F8E;&#x5143;</button>
+    </div>
+    <hr/>
+    <div id="dt" class="dd-control" data-value="CNY" data-action="Buy">
+        <label title="&#x9ED8;&#x8BA4;&#x8D27;&#x5E01;&#xFF08;&#x8F6C;&#x6362;&#x81F3;&#xFF09;">&#x5230;</label>
+        <button accesskey="b" type="button" title="Buy CNY - &#x4EBA;&#x6C11;&#x5E01;">CNY - &#x4EBA;&#x6C11;&#x5E01;</button>
+    </div>
+    <hr/>
+    <label title="Exchange Rate" accesskey="x">&#x6C47;&#x7387;&#xFF08;&#x4E70;/&#x5356;&#xFF09;</label>
+    <span data-value="7.348694559419295">CNY/USD = 7.3486946</span>
+    <hr/>
+</div><div class="tab-panel hide">
+        <ul class="tabs">
+            <li>
+                <a title="" class="" href="/zh-CN/USD/CNY#exchange-rates-major">Major</a>
+            </li>
+            <li>
+                <a title="" class="" href="/zh-CN/USD/CNY#exchange-rates-minor">Minor</a>
+            </li>
+            <li>
+                <a title="" class="" href="/zh-CN/USD/CNY#exchange-rates-exotic">Exotic</a>
+            </li>
+    </ul>
+    <div class="tab-panel selected">
+        <table id="major-currency-table" summary="Major Exchange Rates for &#x7F8E;&#x5143;">
+                    <tr>
+    <td>
+    <em class="AED"></em>
+</td>
+<td>
+    <a title="&#x963F;&#x8054;&#x914B;&#x8FEA;&#x62C9;&#x59C6; &#x6C47;&#x7387;" href="/zh-CN/AED/%E9%98%BF%E8%81%94%E9%85%8B%E8%BF%AA%E6%8B%89%E5%A7%86%E6%B1%87%E7%8E%87">AED</a>
+</td>
+<td data-value="3.67131">
+    3.67131
+</td>
+    <td>
+    <em class="JPY"></em>
+</td>
+<td>
+    <a title="&#x65E5;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/JPY/%E6%97%A5%E5%85%83%E6%B1%87%E7%8E%87">JPY</a>
+</td>
+<td data-value="142.744">
+    142.744
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="ARS"></em>
+</td>
+<td>
+    <a title="&#x963F;&#x6839;&#x5EF7;&#x6BD4;&#x7D22; &#x6C47;&#x7387;" href="/zh-CN/ARS/%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AF%94%E7%B4%A2%E6%B1%87%E7%8E%87">ARS</a>
+</td>
+<td data-value="1137.95">
+    1137.95
+</td>
+    <td>
+    <em class="KRW"></em>
+</td>
+<td>
+    <a title="&#x97E9;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/KRW/%E9%9F%A9%E5%85%83%E6%B1%87%E7%8E%87">KRW</a>
+</td>
+<td data-value="1416.41">
+    1416.41
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="AUD"></em>
+</td>
+<td>
+    <a title="&#x6FB3;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/AUD/%E6%BE%B3%E5%85%83%E6%B1%87%E7%8E%87">AUD</a>
+</td>
+<td data-value="1.57325">
+    1.57325
+</td>
+    <td>
+    <em class="MAD"></em>
+</td>
+<td>
+    <a title="&#x6469;&#x6D1B;&#x54E5;&#x8FEA;&#x62C9;&#x59C6; &#x6C47;&#x7387;" href="/zh-CN/MAD/%E6%91%A9%E6%B4%9B%E5%93%A5%E8%BF%AA%E6%8B%89%E5%A7%86%E6%B1%87%E7%8E%87">MAD</a>
+</td>
+<td data-value="9.27711">
+    9.27711
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="BRL"></em>
+</td>
+<td>
+    <a title="&#x5DF4;&#x897F;&#x96F7;&#x4E9A;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/BRL/%E5%B7%B4%E8%A5%BF%E9%9B%B7%E4%BA%9A%E5%B0%94%E6%B1%87%E7%8E%87">BRL</a>
+</td>
+<td data-value="5.89396">
+    5.89396
+</td>
+    <td>
+    <em class="MXN"></em>
+</td>
+<td>
+    <a title="&#x58A8;&#x897F;&#x54E5;&#x6BD4;&#x7D22; &#x6C47;&#x7387;" href="/zh-CN/MXN/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%AF%94%E7%B4%A2%E6%B1%87%E7%8E%87">MXN</a>
+</td>
+<td data-value="19.9145">
+    19.9145
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="CAD"></em>
+</td>
+<td>
+    <a title="&#x52A0;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/CAD/%E5%8A%A0%E5%85%83%E6%B1%87%E7%8E%87">CAD</a>
+</td>
+<td data-value="1.38769">
+    1.38769
+</td>
+    <td>
+    <em class="NOK"></em>
+</td>
+<td>
+    <a title="&#x632A;&#x5A01;&#x514B;&#x6717; &#x6C47;&#x7387;" href="/zh-CN/NOK/%E6%8C%AA%E5%A8%81%E5%85%8B%E6%9C%97%E6%B1%87%E7%8E%87">NOK</a>
+</td>
+<td data-value="10.5403">
+    10.5403
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="CHF"></em>
+</td>
+<td>
+    <a title="&#x745E;&#x58EB;&#x6CD5;&#x90CE; &#x6C47;&#x7387;" href="/zh-CN/CHF/%E7%91%9E%E5%A3%AB%E6%B3%95%E9%83%8E%E6%B1%87%E7%8E%87">CHF</a>
+</td>
+<td data-value="0.816764">
+    0.816764
+</td>
+    <td>
+    <em class="NZD"></em>
+</td>
+<td>
+    <a title="&#x65B0;&#x897F;&#x5170;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/NZD/%E6%96%B0%E8%A5%BF%E5%85%B0%E5%85%83%E6%B1%87%E7%8E%87">NZD</a>
+</td>
+<td data-value="1.68677">
+    1.68677
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="CNY"></em>
+</td>
+<td>
+    <a title="&#x4EBA;&#x6C11;&#x5E01; &#x6C47;&#x7387;" href="/zh-CN/CNY/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87">CNY</a>
+</td>
+<td data-value="7.3487">
+    7.3487
+</td>
+    <td>
+    <em class="PHP"></em>
+</td>
+<td>
+    <a title="&#x83F2;&#x5F8B;&#x5BBE;&#x6BD4;&#x7D22; &#x6C47;&#x7387;" href="/zh-CN/PHP/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%AF%94%E7%B4%A2%E6%B1%87%E7%8E%87">PHP</a>
+</td>
+<td data-value="56.5694">
+    56.5694
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="CZK"></em>
+</td>
+<td>
+    <a title="&#x6377;&#x514B;&#x514B;&#x6717; &#x6C47;&#x7387;" href="/zh-CN/CZK/%E6%8D%B7%E5%85%8B%E5%85%8B%E6%9C%97%E6%B1%87%E7%8E%87">CZK</a>
+</td>
+<td data-value="22.0009">
+    22.0009
+</td>
+    <td>
+    <em class="PLN"></em>
+</td>
+<td>
+    <a title="&#x6CE2;&#x5170;&#x5179;&#x7F57;&#x63D0; &#x6C47;&#x7387;" href="/zh-CN/PLN/%E6%B3%A2%E5%85%B0%E5%85%B9%E7%BD%97%E6%8F%90%E6%B1%87%E7%8E%87">PLN</a>
+</td>
+<td data-value="3.76316">
+    3.76316
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="DKK"></em>
+</td>
+<td>
+    <a title="&#x4E39;&#x9EA6;&#x514B;&#x6717; &#x6C47;&#x7387;" href="/zh-CN/DKK/%E4%B8%B9%E9%BA%A6%E5%85%8B%E6%9C%97%E6%B1%87%E7%8E%87">DKK</a>
+</td>
+<td data-value="6.5621">
+    6.5621
+</td>
+    <td>
+    <em class="RUB"></em>
+</td>
+<td>
+    <a title="&#x4FC4;&#x7F57;&#x65AF;&#x5362;&#x5E03; &#x6C47;&#x7387;" href="/zh-CN/RUB/%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%A2%E5%B8%83%E6%B1%87%E7%8E%87">RUB</a>
+</td>
+<td data-value="82.021">
+    82.021
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="EUR"></em>
+</td>
+<td>
+    <a title="&#x6B27;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/EUR/%E6%AC%A7%E5%85%83%E6%B1%87%E7%8E%87">EUR</a>
+</td>
+<td data-value="0.878789">
+    0.878789
+</td>
+    <td>
+    <em class="SEK"></em>
+</td>
+<td>
+    <a title="&#x745E;&#x5178;&#x514B;&#x6717; &#x6C47;&#x7387;" href="/zh-CN/SEK/%E7%91%9E%E5%85%B8%E5%85%8B%E6%9C%97%E6%B1%87%E7%8E%87">SEK</a>
+</td>
+<td data-value="9.73557">
+    9.73557
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="GBP"></em>
+</td>
+<td>
+    <a title="&#x82F1;&#x9551; &#x6C47;&#x7387;" href="/zh-CN/GBP/%E8%8B%B1%E9%95%91%E6%B1%87%E7%8E%87">GBP</a>
+</td>
+<td data-value="0.754981">
+    0.754981
+</td>
+    <td>
+    <em class="SGD"></em>
+</td>
+<td>
+    <a title="&#x65B0;&#x52A0;&#x5761;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/SGD/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%83%E6%B1%87%E7%8E%87">SGD</a>
+</td>
+<td data-value="1.31187">
+    1.31187
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="HKD"></em>
+</td>
+<td>
+    <a title="&#x6E2F;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/HKD/%E6%B8%AF%E5%85%83%E6%B1%87%E7%8E%87">HKD</a>
+</td>
+<td data-value="7.7624">
+    7.7624
+</td>
+    <td>
+    <em class="THB"></em>
+</td>
+<td>
+    <a title="&#x6CF0;&#x94E2; &#x6C47;&#x7387;" href="/zh-CN/THB/%E6%B3%B0%E9%93%A2%E6%B1%87%E7%8E%87">THB</a>
+</td>
+<td data-value="33.2903">
+    33.2903
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="HUF"></em>
+</td>
+<td>
+    <a title="&#x5308;&#x7259;&#x5229;&#x798F;&#x6797; &#x6C47;&#x7387;" href="/zh-CN/HUF/%E5%8C%88%E7%89%99%E5%88%A9%E7%A6%8F%E6%9E%97%E6%B1%87%E7%8E%87">HUF</a>
+</td>
+<td data-value="358.058">
+    358.058
+</td>
+    <td>
+    <em class="TRY"></em>
+</td>
+<td>
+    <a title="&#x571F;&#x8033;&#x5176;&#x91CC;&#x62C9; &#x6C47;&#x7387;" href="/zh-CN/TRY/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%87%8C%E6%8B%89%E6%B1%87%E7%8E%87">TRY</a>
+</td>
+<td data-value="38.4277">
+    38.4277
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="ILS"></em>
+</td>
+<td>
+    <a title="&#x4EE5;&#x8272;&#x5217;&#x8C22;&#x514B;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/ILS/%E4%BB%A5%E8%89%B2%E5%88%97%E8%B0%A2%E5%85%8B%E5%B0%94%E6%B1%87%E7%8E%87">ILS</a>
+</td>
+<td data-value="3.68986">
+    3.68986
+</td>
+    <td>
+    <em class="USD"></em>
+</td>
+<td>
+    <a title="&#x7F8E;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/USD/%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87">USD</a>
+</td>
+<td data-value="1">
+    1
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="INR"></em>
+</td>
+<td>
+    <a title="&#x5370;&#x5EA6;&#x5362;&#x6BD4; &#x6C47;&#x7387;" href="/zh-CN/INR/%E5%8D%B0%E5%BA%A6%E5%8D%A2%E6%AF%94%E6%B1%87%E7%8E%87">INR</a>
+</td>
+<td data-value="85.4886">
+    85.4886
+</td>
+    <td>
+    <em class="ZAR"></em>
+</td>
+<td>
+    <a title="&#x5357;&#x975E;&#x5357;&#x7279; &#x6C47;&#x7387;" href="/zh-CN/ZAR/%E5%8D%97%E9%9D%9E%E5%8D%97%E7%89%B9%E6%B1%87%E7%8E%87">ZAR</a>
+</td>
+<td data-value="18.8833">
+    18.8833
+</td>
+</tr>
+        </table>
+    </div>
+    <div class="tab-panel hide">
+        <table id="minor-currency-table" summary="Minor Exchange Rates for &#x7F8E;&#x5143;">
+                    <tr>
+    <td>
+    <em class="BHD"></em>
+</td>
+<td>
+    <a title="&#x5DF4;&#x6797;&#x7B2C;&#x7EB3;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/BHD/%E5%B7%B4%E6%9E%97%E7%AC%AC%E7%BA%B3%E5%B0%94%E6%B1%87%E7%8E%87">BHD</a>
+</td>
+<td data-value="0.376737">
+    0.376737
+</td>
+    <td>
+    <em class="MYR"></em>
+</td>
+<td>
+    <a title="&#x9A6C;&#x6765;&#x897F;&#x4E9A;&#x6797;&#x5409;&#x7279; &#x6C47;&#x7387;" href="/zh-CN/MYR/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%9E%97%E5%90%89%E7%89%B9%E6%B1%87%E7%8E%87">MYR</a>
+</td>
+<td data-value="4.39306">
+    4.39306
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="BOB"></em>
+</td>
+<td>
+    <a title="&#x73BB;&#x5229;&#x7DAD;&#x4E9E;&#x8AFE; &#x6C47;&#x7387;" href="/zh-CN/BOB/%E7%8E%BB%E5%88%A9%E7%B6%AD%E4%BA%9E%E8%AB%BE%E6%B1%87%E7%8E%87">BOB</a>
+</td>
+<td data-value="6.89673">
+    6.89673
+</td>
+    <td>
+    <em class="NAD"></em>
+</td>
+<td>
+    <a title="&#x7EB3;&#x7C73;&#x6BD4;&#x4E9A;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/NAD/%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A%E5%85%83%E6%B1%87%E7%8E%87">NAD</a>
+</td>
+<td data-value="18.813">
+    18.813
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="CLP"></em>
+</td>
+<td>
+    <a title="&#x667A;&#x5229;&#x6BD4;&#x7D22; &#x6C47;&#x7387;" href="/zh-CN/CLP/%E6%99%BA%E5%88%A9%E6%AF%94%E7%B4%A2%E6%B1%87%E7%8E%87">CLP</a>
+</td>
+<td data-value="965.701">
+    965.701
+</td>
+    <td>
+    <em class="NGN"></em>
+</td>
+<td>
+    <a title="&#x5948;&#x53CA;&#x5229;&#x4E9E;&#x5948;&#x62C9; &#x6C47;&#x7387;" href="/zh-CN/NGN/%E5%A5%88%E5%8F%8A%E5%88%A9%E4%BA%9E%E5%A5%88%E6%8B%89%E6%B1%87%E7%8E%87">NGN</a>
+</td>
+<td data-value="1603.81">
+    1603.81
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="COP"></em>
+</td>
+<td>
+    <a title="&#x54E5;&#x4F26;&#x6BD4;&#x4E9A;&#x6BD4;&#x7D22; &#x6C47;&#x7387;" href="/zh-CN/COP/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%AF%94%E7%B4%A2%E6%B1%87%E7%8E%87">COP</a>
+</td>
+<td data-value="4346.75">
+    4346.75
+</td>
+    <td>
+    <em class="NPR"></em>
+</td>
+<td>
+    <a title="&#x5C3C;&#x6CCA;&#x5C14;&#x5362;&#x6BD4; &#x6C47;&#x7387;" href="/zh-CN/NPR/%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8D%A2%E6%AF%94%E6%B1%87%E7%8E%87">NPR</a>
+</td>
+<td data-value="136.713">
+    136.713
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="DOP"></em>
+</td>
+<td>
+    <a title="&#x591A;&#x660E;&#x5C3C;&#x52A0;&#x6BD4;&#x7D22; &#x6C47;&#x7387;" href="/zh-CN/DOP/%E5%A4%9A%E6%98%8E%E5%B0%BC%E5%8A%A0%E6%AF%94%E7%B4%A2%E6%B1%87%E7%8E%87">DOP</a>
+</td>
+<td data-value="60.3629">
+    60.3629
+</td>
+    <td>
+    <em class="OMR"></em>
+</td>
+<td>
+    <a title="&#x963F;&#x66FC;&#x91CC;&#x4E9A;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/OMR/%E9%98%BF%E6%9B%BC%E9%87%8C%E4%BA%9A%E5%B0%94%E6%B1%87%E7%8E%87">OMR</a>
+</td>
+<td data-value="0.38483">
+    0.38483
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="EGP"></em>
+</td>
+<td>
+    <a title="&#x57C3;&#x53CA;&#x938A; &#x6C47;&#x7387;" href="/zh-CN/EGP/%E5%9F%83%E5%8F%8A%E9%8E%8A%E6%B1%87%E7%8E%87">EGP</a>
+</td>
+<td data-value="51.1402">
+    51.1402
+</td>
+    <td>
+    <em class="PAB"></em>
+</td>
+<td>
+    <a title="&#x5DF4;&#x62FF;&#x9A6C;&#x6CE2;&#x4E9A; &#x6C47;&#x7387;" href="/zh-CN/PAB/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%B3%A2%E4%BA%9A%E6%B1%87%E7%8E%87">PAB</a>
+</td>
+<td data-value="0.998128">
+    0.998128
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="IDR"></em>
+</td>
+<td>
+    <a title="&#x5370;&#x5C3C;&#x76FE; &#x6C47;&#x7387;" href="/zh-CN/IDR/%E5%8D%B0%E5%B0%BC%E7%9B%BE%E6%B1%87%E7%8E%87">IDR</a>
+</td>
+<td data-value="16831.3">
+    16831.3
+</td>
+    <td>
+    <em class="PEN"></em>
+</td>
+<td>
+    <a title="&#x79D8;&#x9C81;&#x7D22;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/PEN/%E7%A7%98%E9%B2%81%E7%B4%A2%E5%B0%94%E6%B1%87%E7%8E%87">PEN</a>
+</td>
+<td data-value="3.73796">
+    3.73796
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="IRR"></em>
+</td>
+<td>
+    <a title="&#x4F0A;&#x6717;&#x91CC;&#x4E9E;&#x723E; &#x6C47;&#x7387;" href="/zh-CN/IRR/%E4%BC%8A%E6%9C%97%E9%87%8C%E4%BA%9E%E7%88%BE%E6%B1%87%E7%8E%87">IRR</a>
+</td>
+<td data-value="42112.3">
+    42112.3
+</td>
+    <td>
+    <em class="PKR"></em>
+</td>
+<td>
+    <a title="&#x5DF4;&#x57FA;&#x65AF;&#x5766;&#x5362;&#x6BD4; &#x6C47;&#x7387;" href="/zh-CN/PKR/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8D%A2%E6%AF%94%E6%B1%87%E7%8E%87">PKR</a>
+</td>
+<td data-value="279.912">
+    279.912
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="ISK"></em>
+</td>
+<td>
+    <a title="&#x51B0;&#x5C9B;&#x514B;&#x6717; &#x6C47;&#x7387;" href="/zh-CN/ISK/%E5%86%B0%E5%B2%9B%E5%85%8B%E6%9C%97%E6%B1%87%E7%8E%87">ISK</a>
+</td>
+<td data-value="127.506">
+    127.506
+</td>
+    <td>
+    <em class="RON"></em>
+</td>
+<td>
+    <a title="&#x7F57;&#x9A6C;&#x5C3C;&#x4E9A;&#x5217;&#x4F0A; &#x6C47;&#x7387;" href="/zh-CN/RON/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E5%88%97%E4%BC%8A%E6%B1%87%E7%8E%87">RON</a>
+</td>
+<td data-value="4.37452">
+    4.37452
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="JMD"></em>
+</td>
+<td>
+    <a title="&#x7259;&#x4E70;&#x52A0;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/JMD/%E7%89%99%E4%B9%B0%E5%8A%A0%E5%85%83%E6%B1%87%E7%8E%87">JMD</a>
+</td>
+<td data-value="157.707">
+    157.707
+</td>
+    <td>
+    <em class="SAR"></em>
+</td>
+<td>
+    <a title="&#x6C99;&#x7279;&#x91CC;&#x4E9A;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/SAR/%E6%B2%99%E7%89%B9%E9%87%8C%E4%BA%9A%E5%B0%94%E6%B1%87%E7%8E%87">SAR</a>
+</td>
+<td data-value="3.75243">
+    3.75243
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="JOD"></em>
+</td>
+<td>
+    <a title="&#x7EA6;&#x65E6;&#x7B2C;&#x7EB3;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/JOD/%E7%BA%A6%E6%97%A6%E7%AC%AC%E7%BA%B3%E5%B0%94%E6%B1%87%E7%8E%87">JOD</a>
+</td>
+<td data-value="0.709095">
+    0.709095
+</td>
+    <td>
+    <em class="TWD"></em>
+</td>
+<td>
+    <a title="&#x65B0;&#x81FA;&#x5E63; &#x6C47;&#x7387;" href="/zh-CN/TWD/%E6%96%B0%E8%87%BA%E5%B9%A3%E6%B1%87%E7%8E%87">TWD</a>
+</td>
+<td data-value="32.4944">
+    32.4944
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="KES"></em>
+</td>
+<td>
+    <a title="&#x80AF;&#x5C3C;&#x4E9A;&#x5148;&#x4EE4; &#x6C47;&#x7387;" href="/zh-CN/KES/%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%85%88%E4%BB%A4%E6%B1%87%E7%8E%87">KES</a>
+</td>
+<td data-value="129.349">
+    129.349
+</td>
+    <td>
+    <em class="UAH"></em>
+</td>
+<td>
+    <a title="&#x4E4C;&#x514B;&#x5170;&#x683C;&#x91CC;&#x592B;&#x7EB3; &#x6C47;&#x7387;" href="/zh-CN/UAH/%E4%B9%8C%E5%85%8B%E5%85%B0%E6%A0%BC%E9%87%8C%E5%A4%AB%E7%BA%B3%E6%B1%87%E7%8E%87">UAH</a>
+</td>
+<td data-value="41.2372">
+    41.2372
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="KWD"></em>
+</td>
+<td>
+    <a title="&#x79D1;&#x5A01;&#x7279;&#x7B2C;&#x7EB3;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/KWD/%E7%A7%91%E5%A8%81%E7%89%B9%E7%AC%AC%E7%BA%B3%E5%B0%94%E6%B1%87%E7%8E%87">KWD</a>
+</td>
+<td data-value="0.306495">
+    0.306495
+</td>
+    <td>
+    <em class="UYU"></em>
+</td>
+<td>
+    <a title="&#x70CF;&#x62C9;&#x572D;&#x6BD4;&#x7D22; &#x6C47;&#x7387;" href="/zh-CN/UYU/%E7%83%8F%E6%8B%89%E5%9C%AD%E6%AF%94%E7%B4%A2%E6%B1%87%E7%8E%87">UYU</a>
+</td>
+<td data-value="41.9316">
+    41.9316
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="LBP"></em>
+</td>
+<td>
+    <a title="&#x9ECE;&#x5DF4;&#x5AE9;&#x9551; &#x6C47;&#x7387;" href="/zh-CN/LBP/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%95%91%E6%B1%87%E7%8E%87">LBP</a>
+</td>
+<td data-value="86380.5">
+    86380.5
+</td>
+    <td>
+    <em class="VES"></em>
+</td>
+<td>
+    <a title="&#x59D4;&#x5185;&#x745E;&#x62C9;&#x73BB;&#x5229;&#x74E6;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/VES/%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%8E%BB%E5%88%A9%E7%93%A6%E5%B0%94%E6%B1%87%E7%8E%87">VES</a>
+</td>
+<td data-value="77.1099">
+    77.1099
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="LKR"></em>
+</td>
+<td>
+    <a title="&#x65AF;&#x91CC;&#x5170;&#x5361;&#x5362;&#x6BD4; &#x6C47;&#x7387;" href="/zh-CN/LKR/%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E5%8D%A2%E6%AF%94%E6%B1%87%E7%8E%87">LKR</a>
+</td>
+<td data-value="298.213">
+    298.213
+</td>
+    <td>
+    <em class="VND"></em>
+</td>
+<td>
+    <a title="&#x8D8A;&#x5357;&#x76FE; &#x6C47;&#x7387;" href="/zh-CN/VND/%E8%B6%8A%E5%8D%97%E7%9B%BE%E6%B1%87%E7%8E%87">VND</a>
+</td>
+<td data-value="25879.2">
+    25879.2
+</td>
+</tr>
+        </table>
+    </div>
+    <div class="tab-panel hide">
+        <table id="exotic-currency-table" summary="Exotic Exchange Rates for &#x7F8E;&#x5143;">
+                    <tr>
+    <td>
+    <em class="AWG"></em>
+</td>
+<td>
+    <a title="&#x963F;&#x9B6F;&#x5DF4;&#x5F17;&#x7F85;&#x6797; &#x6C47;&#x7387;" href="/zh-CN/AWG/%E9%98%BF%E9%AD%AF%E5%B7%B4%E5%BC%97%E7%BE%85%E6%9E%97%E6%B1%87%E7%8E%87">AWG</a>
+</td>
+<td data-value="1.79916">
+    1.79916
+</td>
+    <td>
+    <em class="MGA"></em>
+</td>
+<td>
+    <a title="&#x963F;&#x91CC;&#x4E9E;&#x91CC; &#x6C47;&#x7387;" href="/zh-CN/MGA/%E9%98%BF%E9%87%8C%E4%BA%9E%E9%87%8C%E6%B1%87%E7%8E%87">MGA</a>
+</td>
+<td data-value="4552.7">
+    4552.7
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="BAM"></em>
+</td>
+<td>
+    <a title="&#x6CE2;&#x65AF;&#x5C3C;&#x4E9A;&#x548C;&#x9ED1;&#x585E;&#x54E5;&#x7EF4;&#x90A3;&#x53EF;&#x5151;&#x6362;&#x9A6C;&#x514B; &#x6C47;&#x7387;" href="/zh-CN/BAM/%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9A%E5%92%8C%E9%BB%91%E5%A1%9E%E5%93%A5%E7%BB%B4%E9%82%A3%E5%8F%AF%E5%85%91%E6%8D%A2%E9%A9%AC%E5%85%8B%E6%B1%87%E7%8E%87">BAM</a>
+</td>
+<td data-value="1.71873">
+    1.71873
+</td>
+    <td>
+    <em class="MKD"></em>
+</td>
+<td>
+    <a title="&#x99AC;&#x5176;&#x9813;&#x4EE3;&#x7D0D;&#x723E; &#x6C47;&#x7387;" href="/zh-CN/MKD/%E9%A6%AC%E5%85%B6%E9%A0%93%E4%BB%A3%E7%B4%8D%E7%88%BE%E6%B1%87%E7%8E%87">MKD</a>
+</td>
+<td data-value="54.0675">
+    54.0675
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="BBD"></em>
+</td>
+<td>
+    <a title="&#x5DF4;&#x5DF4;&#x591A;&#x65AF;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/BBD/%E5%B7%B4%E5%B7%B4%E5%A4%9A%E6%96%AF%E5%85%83%E6%B1%87%E7%8E%87">BBD</a>
+</td>
+<td data-value="2.01524">
+    2.01524
+</td>
+    <td>
+    <em class="MUR"></em>
+</td>
+<td>
+    <a title="&#x6A21;&#x91CC;&#x897F;&#x65AF;&#x76E7;&#x6BD4; &#x6C47;&#x7387;" href="/zh-CN/MUR/%E6%A8%A1%E9%87%8C%E8%A5%BF%E6%96%AF%E7%9B%A7%E6%AF%94%E6%B1%87%E7%8E%87">MUR</a>
+</td>
+<td data-value="45.0994">
+    45.0994
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="BDT"></em>
+</td>
+<td>
+    <a title="&#x5B5F;&#x52A0;&#x62C9;&#x5854;&#x5361; &#x6C47;&#x7387;" href="/zh-CN/BDT/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%A1%94%E5%8D%A1%E6%B1%87%E7%8E%87">BDT</a>
+</td>
+<td data-value="121.264">
+    121.264
+</td>
+    <td>
+    <em class="MVR"></em>
+</td>
+<td>
+    <a title="&#x99AC;&#x723E;&#x5730;&#x592B;&#x62C9;&#x83F2;&#x4E9E; &#x6C47;&#x7387;" href="/zh-CN/MVR/%E9%A6%AC%E7%88%BE%E5%9C%B0%E5%A4%AB%E6%8B%89%E8%8F%B2%E4%BA%9E%E6%B1%87%E7%8E%87">MVR</a>
+</td>
+<td data-value="15.3765">
+    15.3765
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="BGN"></em>
+</td>
+<td>
+    <a title="&#x4FDD;&#x52A0;&#x5229;&#x4E9E;&#x5217;&#x5F17; &#x6C47;&#x7387;" href="/zh-CN/BGN/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9E%E5%88%97%E5%BC%97%E6%B1%87%E7%8E%87">BGN</a>
+</td>
+<td data-value="1.71873">
+    1.71873
+</td>
+    <td>
+    <em class="PYG"></em>
+</td>
+<td>
+    <a title="&#x5DF4;&#x62C9;&#x572D;&#x74DC;&#x62C9;&#x5C3C; &#x6C47;&#x7387;" href="/zh-CN/PYG/%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%93%9C%E6%8B%89%E5%B0%BC%E6%B1%87%E7%8E%87">PYG</a>
+</td>
+<td data-value="7985.55">
+    7985.55
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="BMD"></em>
+</td>
+<td>
+    <a title="&#x767E;&#x6155;&#x9054;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/BMD/%E7%99%BE%E6%85%95%E9%81%94%E5%85%83%E6%B1%87%E7%8E%87">BMD</a>
+</td>
+<td data-value="1.00047">
+    1.00047
+</td>
+    <td>
+    <em class="QAR"></em>
+</td>
+<td>
+    <a title="&#x5361;&#x5854;&#x5C14;&#x91CC;&#x4E9A;&#x5C14; &#x6C47;&#x7387;" href="/zh-CN/QAR/%E5%8D%A1%E5%A1%94%E5%B0%94%E9%87%8C%E4%BA%9A%E5%B0%94%E6%B1%87%E7%8E%87">QAR</a>
+</td>
+<td data-value="3.63734">
+    3.63734
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="BSD"></em>
+</td>
+<td>
+    <a title="&#x5DF4;&#x54C8;&#x99AC;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/BSD/%E5%B7%B4%E5%93%88%E9%A6%AC%E5%85%83%E6%B1%87%E7%8E%87">BSD</a>
+</td>
+<td data-value="0.99804">
+    0.99804
+</td>
+    <td>
+    <em class="RSD"></em>
+</td>
+<td>
+    <a title="&#x585E;&#x723E;&#x7DAD;&#x4E9E;&#x7B2C;&#x7D0D;&#x723E; &#x6C47;&#x7387;" href="/zh-CN/RSD/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%AC%AC%E7%B4%8D%E7%88%BE%E6%B1%87%E7%8E%87">RSD</a>
+</td>
+<td data-value="103.038">
+    103.038
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="BWP"></em>
+</td>
+<td>
+    <a title="&#x6CE2;&#x672D;&#x90A3;&#x666E;&#x62C9; &#x6C47;&#x7387;" href="/zh-CN/BWP/%E6%B3%A2%E6%9C%AD%E9%82%A3%E6%99%AE%E6%8B%89%E6%B1%87%E7%8E%87">BWP</a>
+</td>
+<td data-value="13.7578">
+    13.7578
+</td>
+    <td>
+    <em class="SCR"></em>
+</td>
+<td>
+    <a title="&#x585E;&#x5E2D;&#x723E;&#x76E7;&#x6BD4; &#x6C47;&#x7387;" href="/zh-CN/SCR/%E5%A1%9E%E5%B8%AD%E7%88%BE%E7%9B%A7%E6%AF%94%E6%B1%87%E7%8E%87">SCR</a>
+</td>
+<td data-value="14.4411">
+    14.4411
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="FJD"></em>
+</td>
+<td>
+    <a title="&#x6590;&#x6FDF;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/FJD/%E6%96%90%E6%BF%9F%E5%85%83%E6%B1%87%E7%8E%87">FJD</a>
+</td>
+<td data-value="2.29188">
+    2.29188
+</td>
+    <td>
+    <em class="TND"></em>
+</td>
+<td>
+    <a title="&#x7A81;&#x5C3C;&#x65AF;&#x7B2C;&#x7D0D;&#x723E; &#x6C47;&#x7387;" href="/zh-CN/TND/%E7%AA%81%E5%B0%BC%E6%96%AF%E7%AC%AC%E7%B4%8D%E7%88%BE%E6%B1%87%E7%8E%87">TND</a>
+</td>
+<td data-value="2.99324">
+    2.99324
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="GHS"></em>
+</td>
+<td>
+    <a title="&#x8FE6;&#x7D0D;&#x585E;&#x5730; &#x6C47;&#x7387;" href="/zh-CN/GHS/%E8%BF%A6%E7%B4%8D%E5%A1%9E%E5%9C%B0%E6%B1%87%E7%8E%87">GHS</a>
+</td>
+<td data-value="15.45">
+    15.45
+</td>
+    <td>
+    <em class="TTD"></em>
+</td>
+<td>
+    <a title="&#x7279;&#x7ACB;&#x5C3C;&#x8FBE;&#x548C;&#x591A;&#x5DF4;&#x54E5;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/TTD/%E7%89%B9%E7%AB%8B%E5%B0%BC%E8%BE%BE%E5%92%8C%E5%A4%9A%E5%B7%B4%E5%93%A5%E5%85%83%E6%B1%87%E7%8E%87">TTD</a>
+</td>
+<td data-value="6.7781">
+    6.7781
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="GMD"></em>
+</td>
+<td>
+    <a title="&#x7518;&#x6BD4;&#x4E9E;&#x9054;&#x62C9;&#x897F; &#x6C47;&#x7387;" href="/zh-CN/GMD/%E7%94%98%E6%AF%94%E4%BA%9E%E9%81%94%E6%8B%89%E8%A5%BF%E6%B1%87%E7%8E%87">GMD</a>
+</td>
+<td data-value="71.508">
+    71.508
+</td>
+    <td>
+    <em class="UGX"></em>
+</td>
+<td>
+    <a title="&#x70CF;&#x5E72;&#x9054;&#x5148;&#x4EE4; &#x6C47;&#x7387;" href="/zh-CN/UGX/%E7%83%8F%E5%B9%B2%E9%81%94%E5%85%88%E4%BB%A4%E6%B1%87%E7%8E%87">UGX</a>
+</td>
+<td data-value="3660.15">
+    3660.15
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="GTQ"></em>
+</td>
+<td>
+    <a title="&#x74DC;&#x5730;&#x99AC;&#x62C9;&#x683C;&#x67E5;&#x723E; &#x6C47;&#x7387;" href="/zh-CN/GTQ/%E7%93%9C%E5%9C%B0%E9%A6%AC%E6%8B%89%E6%A0%BC%E6%9F%A5%E7%88%BE%E6%B1%87%E7%8E%87">GTQ</a>
+</td>
+<td data-value="7.69981">
+    7.69981
+</td>
+    <td>
+    <em class="XAF"></em>
+</td>
+<td>
+    <a title="&#x4E2D;&#x975E;&#x6CD5;&#x90CE; &#x6C47;&#x7387;" href="/zh-CN/XAF/%E4%B8%AD%E9%9D%9E%E6%B3%95%E9%83%8E%E6%B1%87%E7%8E%87">XAF</a>
+</td>
+<td data-value="576.448">
+    576.448
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="KHR"></em>
+</td>
+<td>
+    <a title="&#x67EC;&#x57D4;&#x5BE8;&#x745E;&#x723E; &#x6C47;&#x7387;" href="/zh-CN/KHR/%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%91%9E%E7%88%BE%E6%B1%87%E7%8E%87">KHR</a>
+</td>
+<td data-value="3997.61">
+    3997.61
+</td>
+    <td>
+    <em class="XCD"></em>
+</td>
+<td>
+    <a title="&#x4E1C;&#x52A0;&#x52D2;&#x6BD4;&#x6D77;&#x5143; &#x6C47;&#x7387;" href="/zh-CN/XCD/%E4%B8%9C%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E5%85%83%E6%B1%87%E7%8E%87">XCD</a>
+</td>
+<td data-value="2.69704">
+    2.69704
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="LAK"></em>
+</td>
+<td>
+    <a title="&#x5BEE;&#x570B;&#x57FA;&#x666E; &#x6C47;&#x7387;" href="/zh-CN/LAK/%E5%AF%AE%E5%9C%8B%E5%9F%BA%E6%99%AE%E6%B1%87%E7%8E%87">LAK</a>
+</td>
+<td data-value="21615.6">
+    21615.6
+</td>
+    <td>
+    <em class="XOF"></em>
+</td>
+<td>
+    <a title="&#x897F;&#x975E;&#x6CD5;&#x90CE; &#x6C47;&#x7387;" href="/zh-CN/XOF/%E8%A5%BF%E9%9D%9E%E6%B3%95%E9%83%8E%E6%B1%87%E7%8E%87">XOF</a>
+</td>
+<td data-value="576.374">
+    576.374
+</td>
+</tr>
+                    <tr>
+    <td>
+    <em class="MDL"></em>
+</td>
+<td>
+    <a title="&#x6469;&#x723E;&#x591A;&#x74E6;&#x5217;&#x4F0A; &#x6C47;&#x7387;" href="/zh-CN/MDL/%E6%91%A9%E7%88%BE%E5%A4%9A%E7%93%A6%E5%88%97%E4%BC%8A%E6%B1%87%E7%8E%87">MDL</a>
+</td>
+<td data-value="17.2753">
+    17.2753
+</td>
+    <td>
+    <em class="XPF"></em>
+</td>
+<td>
+    <a title="&#x592A;&#x5E73;&#x6D0B;&#x6CD5;&#x90CE; &#x6C47;&#x7387;" href="/zh-CN/XPF/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B3%95%E9%83%8E%E6%B1%87%E7%8E%87">XPF</a>
+</td>
+<td data-value="104.705">
+    104.705
+</td>
+</tr>
+        </table>
+    </div>
+
+</div>        <div class="tab-trailer">
+            <label>&#x6700;&#x8FD1;&#x66F4;&#x65B0;</label>
+            <time datetime="2025-04-17 09:19:48Z">2025/4/17 &#x4E0A;&#x5348;9:19:48</time>
+            <div id="loc" class="dd-control cc-locale" data-value="" data-action="Locale">
+                <label title="Select Locale">Locale</label>
+                <button type="button"></button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<template id="currency-list">
+    <ul tabindex="-1">
+                <li data-value="AED">AED - &#x963F;&#x8054;&#x914B;&#x8FEA;&#x62C9;&#x59C6;</li>
+                <li data-value="ARS">ARS - &#x963F;&#x6839;&#x5EF7;&#x6BD4;&#x7D22;</li>
+                <li data-value="AUD">AUD - &#x6FB3;&#x5143;</li>
+                <li data-value="AWG">AWG - &#x963F;&#x9B6F;&#x5DF4;&#x5F17;&#x7F85;&#x6797;</li>
+                <li data-value="BAM">BAM - &#x6CE2;&#x65AF;&#x5C3C;&#x4E9A;&#x548C;&#x9ED1;&#x585E;&#x54E5;&#x7EF4;&#x90A3;&#x53EF;&#x5151;&#x6362;&#x9A6C;&#x514B;</li>
+                <li data-value="BBD">BBD - &#x5DF4;&#x5DF4;&#x591A;&#x65AF;&#x5143;</li>
+                <li data-value="BDT">BDT - &#x5B5F;&#x52A0;&#x62C9;&#x5854;&#x5361;</li>
+                <li data-value="BGN">BGN - &#x4FDD;&#x52A0;&#x5229;&#x4E9E;&#x5217;&#x5F17;</li>
+                <li data-value="BHD">BHD - &#x5DF4;&#x6797;&#x7B2C;&#x7EB3;&#x5C14;</li>
+                <li data-value="BMD">BMD - &#x767E;&#x6155;&#x9054;&#x5143;</li>
+                <li data-value="BOB">BOB - &#x73BB;&#x5229;&#x7DAD;&#x4E9E;&#x8AFE;</li>
+                <li data-value="BRL">BRL - &#x5DF4;&#x897F;&#x96F7;&#x4E9A;&#x5C14;</li>
+                <li data-value="BSD">BSD - &#x5DF4;&#x54C8;&#x99AC;&#x5143;</li>
+                <li data-value="BWP">BWP - &#x6CE2;&#x672D;&#x90A3;&#x666E;&#x62C9;</li>
+                <li data-value="CAD">CAD - &#x52A0;&#x5143;</li>
+                <li data-value="CHF">CHF - &#x745E;&#x58EB;&#x6CD5;&#x90CE;</li>
+                <li data-value="CLP">CLP - &#x667A;&#x5229;&#x6BD4;&#x7D22;</li>
+                <li data-value="CNY">CNY - &#x4EBA;&#x6C11;&#x5E01;</li>
+                <li data-value="COP">COP - &#x54E5;&#x4F26;&#x6BD4;&#x4E9A;&#x6BD4;&#x7D22;</li>
+                <li data-value="CZK">CZK - &#x6377;&#x514B;&#x514B;&#x6717;</li>
+                <li data-value="DKK">DKK - &#x4E39;&#x9EA6;&#x514B;&#x6717;</li>
+                <li data-value="DOP">DOP - &#x591A;&#x660E;&#x5C3C;&#x52A0;&#x6BD4;&#x7D22;</li>
+                <li data-value="EGP">EGP - &#x57C3;&#x53CA;&#x938A;</li>
+                <li data-value="EUR">EUR - &#x6B27;&#x5143;</li>
+                <li data-value="FJD">FJD - &#x6590;&#x6FDF;&#x5143;</li>
+                <li data-value="GBP">GBP - &#x82F1;&#x9551;</li>
+                <li data-value="GHS">GHS - &#x8FE6;&#x7D0D;&#x585E;&#x5730;</li>
+                <li data-value="GMD">GMD - &#x7518;&#x6BD4;&#x4E9E;&#x9054;&#x62C9;&#x897F;</li>
+                <li data-value="GTQ">GTQ - &#x74DC;&#x5730;&#x99AC;&#x62C9;&#x683C;&#x67E5;&#x723E;</li>
+                <li data-value="HKD">HKD - &#x6E2F;&#x5143;</li>
+                <li data-value="HUF">HUF - &#x5308;&#x7259;&#x5229;&#x798F;&#x6797;</li>
+                <li data-value="IDR">IDR - &#x5370;&#x5C3C;&#x76FE;</li>
+                <li data-value="ILS">ILS - &#x4EE5;&#x8272;&#x5217;&#x8C22;&#x514B;&#x5C14;</li>
+                <li data-value="INR">INR - &#x5370;&#x5EA6;&#x5362;&#x6BD4;</li>
+                <li data-value="IRR">IRR - &#x4F0A;&#x6717;&#x91CC;&#x4E9E;&#x723E;</li>
+                <li data-value="ISK">ISK - &#x51B0;&#x5C9B;&#x514B;&#x6717;</li>
+                <li data-value="JMD">JMD - &#x7259;&#x4E70;&#x52A0;&#x5143;</li>
+                <li data-value="JOD">JOD - &#x7EA6;&#x65E6;&#x7B2C;&#x7EB3;&#x5C14;</li>
+                <li data-value="JPY">JPY - &#x65E5;&#x5143;</li>
+                <li data-value="KES">KES - &#x80AF;&#x5C3C;&#x4E9A;&#x5148;&#x4EE4;</li>
+                <li data-value="KHR">KHR - &#x67EC;&#x57D4;&#x5BE8;&#x745E;&#x723E;</li>
+                <li data-value="KRW">KRW - &#x97E9;&#x5143;</li>
+                <li data-value="KWD">KWD - &#x79D1;&#x5A01;&#x7279;&#x7B2C;&#x7EB3;&#x5C14;</li>
+                <li data-value="LAK">LAK - &#x5BEE;&#x570B;&#x57FA;&#x666E;</li>
+                <li data-value="LBP">LBP - &#x9ECE;&#x5DF4;&#x5AE9;&#x9551;</li>
+                <li data-value="LKR">LKR - &#x65AF;&#x91CC;&#x5170;&#x5361;&#x5362;&#x6BD4;</li>
+                <li data-value="MAD">MAD - &#x6469;&#x6D1B;&#x54E5;&#x8FEA;&#x62C9;&#x59C6;</li>
+                <li data-value="MDL">MDL - &#x6469;&#x723E;&#x591A;&#x74E6;&#x5217;&#x4F0A;</li>
+                <li data-value="MGA">MGA - &#x963F;&#x91CC;&#x4E9E;&#x91CC;</li>
+                <li data-value="MKD">MKD - &#x99AC;&#x5176;&#x9813;&#x4EE3;&#x7D0D;&#x723E;</li>
+                <li data-value="MUR">MUR - &#x6A21;&#x91CC;&#x897F;&#x65AF;&#x76E7;&#x6BD4;</li>
+                <li data-value="MVR">MVR - &#x99AC;&#x723E;&#x5730;&#x592B;&#x62C9;&#x83F2;&#x4E9E;</li>
+                <li data-value="MXN">MXN - &#x58A8;&#x897F;&#x54E5;&#x6BD4;&#x7D22;</li>
+                <li data-value="MYR">MYR - &#x9A6C;&#x6765;&#x897F;&#x4E9A;&#x6797;&#x5409;&#x7279;</li>
+                <li data-value="NAD">NAD - &#x7EB3;&#x7C73;&#x6BD4;&#x4E9A;&#x5143;</li>
+                <li data-value="NGN">NGN - &#x5948;&#x53CA;&#x5229;&#x4E9E;&#x5948;&#x62C9;</li>
+                <li data-value="NOK">NOK - &#x632A;&#x5A01;&#x514B;&#x6717;</li>
+                <li data-value="NPR">NPR - &#x5C3C;&#x6CCA;&#x5C14;&#x5362;&#x6BD4;</li>
+                <li data-value="NZD">NZD - &#x65B0;&#x897F;&#x5170;&#x5143;</li>
+                <li data-value="OMR">OMR - &#x963F;&#x66FC;&#x91CC;&#x4E9A;&#x5C14;</li>
+                <li data-value="PAB">PAB - &#x5DF4;&#x62FF;&#x9A6C;&#x6CE2;&#x4E9A;</li>
+                <li data-value="PEN">PEN - &#x79D8;&#x9C81;&#x7D22;&#x5C14;</li>
+                <li data-value="PHP">PHP - &#x83F2;&#x5F8B;&#x5BBE;&#x6BD4;&#x7D22;</li>
+                <li data-value="PKR">PKR - &#x5DF4;&#x57FA;&#x65AF;&#x5766;&#x5362;&#x6BD4;</li>
+                <li data-value="PLN">PLN - &#x6CE2;&#x5170;&#x5179;&#x7F57;&#x63D0;</li>
+                <li data-value="PYG">PYG - &#x5DF4;&#x62C9;&#x572D;&#x74DC;&#x62C9;&#x5C3C;</li>
+                <li data-value="QAR">QAR - &#x5361;&#x5854;&#x5C14;&#x91CC;&#x4E9A;&#x5C14;</li>
+                <li data-value="RON">RON - &#x7F57;&#x9A6C;&#x5C3C;&#x4E9A;&#x5217;&#x4F0A;</li>
+                <li data-value="RSD">RSD - &#x585E;&#x723E;&#x7DAD;&#x4E9E;&#x7B2C;&#x7D0D;&#x723E;</li>
+                <li data-value="RUB">RUB - &#x4FC4;&#x7F57;&#x65AF;&#x5362;&#x5E03;</li>
+                <li data-value="SAR">SAR - &#x6C99;&#x7279;&#x91CC;&#x4E9A;&#x5C14;</li>
+                <li data-value="SCR">SCR - &#x585E;&#x5E2D;&#x723E;&#x76E7;&#x6BD4;</li>
+                <li data-value="SEK">SEK - &#x745E;&#x5178;&#x514B;&#x6717;</li>
+                <li data-value="SGD">SGD - &#x65B0;&#x52A0;&#x5761;&#x5143;</li>
+                <li data-value="THB">THB - &#x6CF0;&#x94E2;</li>
+                <li data-value="TND">TND - &#x7A81;&#x5C3C;&#x65AF;&#x7B2C;&#x7D0D;&#x723E;</li>
+                <li data-value="TRY">TRY - &#x571F;&#x8033;&#x5176;&#x91CC;&#x62C9;</li>
+                <li data-value="TTD">TTD - &#x7279;&#x7ACB;&#x5C3C;&#x8FBE;&#x548C;&#x591A;&#x5DF4;&#x54E5;&#x5143;</li>
+                <li data-value="TWD">TWD - &#x65B0;&#x81FA;&#x5E63;</li>
+                <li data-value="UAH">UAH - &#x4E4C;&#x514B;&#x5170;&#x683C;&#x91CC;&#x592B;&#x7EB3;</li>
+                <li data-value="UGX">UGX - &#x70CF;&#x5E72;&#x9054;&#x5148;&#x4EE4;</li>
+                <li data-value="USD">USD - &#x7F8E;&#x5143;</li>
+                <li data-value="UYU">UYU - &#x70CF;&#x62C9;&#x572D;&#x6BD4;&#x7D22;</li>
+                <li data-value="VES">VES - &#x59D4;&#x5185;&#x745E;&#x62C9;&#x73BB;&#x5229;&#x74E6;&#x5C14;</li>
+                <li data-value="VND">VND - &#x8D8A;&#x5357;&#x76FE;</li>
+                <li data-value="XAF">XAF - &#x4E2D;&#x975E;&#x6CD5;&#x90CE;</li>
+                <li data-value="XCD">XCD - &#x4E1C;&#x52A0;&#x52D2;&#x6BD4;&#x6D77;&#x5143;</li>
+                <li data-value="XOF">XOF - &#x897F;&#x975E;&#x6CD5;&#x90CE;</li>
+                <li data-value="XPF">XPF - &#x592A;&#x5E73;&#x6D0B;&#x6CD5;&#x90CE;</li>
+                <li data-value="ZAR">ZAR - &#x5357;&#x975E;&#x5357;&#x7279;</li>
+    </ul>
+</template>
+
+    <div class="right">
+        <aside>
+        <img src="/images/flags/USD.svg" title="Flag of &#x7F8E;&#x56FD;" alt="&#x7F8E;&#x56FD; Flag"/>
+    <h2>
+        <a title="USD - &#x7F8E;&#x5143;" href="/zh-CN/USD/%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87"><dfn>USD</dfn> &#x7F8E;&#x5143;</a>
+    </h2>
+    <dl>
+        <dt>&#x56FD;&#x5BB6;</dt>
+        <dd>&#x7F8E;&#x56FD;</dd>
+        <dt>&#x6D32;</dt>
+        <dd>&#x5317;&#x7F8E;&#x6D32;</dd>
+        <dt>&#x9644;&#x5C5E;&#x5355;&#x4F4D;</dt>
+        <dd>1 Dollar = 100 cents</dd>
+        <dt>&#x6807;&#x5FD7;</dt>
+        <dd>US$</dd>
+    </dl>
+    
+    <p>
+        &#x7F8E;&#x5143;&#x662F;&#x4E16;&#x754C;&#x4E0A;&#x4F7F;&#x7528;&#x6700;&#x5E7F;&#x6CDB;&#x7684;&#x8D27;&#x5E01;&#x3002;&#x591A;&#x4E2A;&#x56FD;&#x5BB6;&#x4F7F;&#x7528;&#x7F8E;&#x5143;&#x4F5C;&#x4E3A;&#x5B83;&#x4EEC;&#x7684;&#x6CD5;&#x5B9A;&#x8D27;&#x5E01;&#xFF0C;&#x8FD8;&#x6709;&#x66F4;&#x591A;&#x7684;&#x56FD;&#x5BB6;&#x5141;&#x8BB8;&#x7F8E;&#x5143;&#x81EA;&#x7531;&#x6D41;&#x901A;&#x3002;&#x7F8E;&#x5143;&#x4E5F;&#x5E38;&#x88AB;&#x79F0;&#x4F5C;buck&#x6216;&#x8005;greenback&#x3002;
+    </p>
+    <ul>
+        <li>
+            <a title="&#x7F8E;&#x5143; &#x6C47;&#x7387; (USD)" href="/zh-CN/USD/%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87">USD &#x6C47;&#x7387;</a>
+        </li>
+        
+    </ul>
+</aside>
+<aside>
+        <img src="/images/flags/CNY.svg" title="Flag of &#x4E2D;&#x56FD;" alt="&#x4E2D;&#x56FD; Flag"/>
+    <h2>
+        <a title="CNY - &#x4EBA;&#x6C11;&#x5E01;" href="/zh-CN/CNY/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87"><dfn>CNY</dfn> &#x4EBA;&#x6C11;&#x5E01;</a>
+    </h2>
+    <dl>
+        <dt>&#x56FD;&#x5BB6;</dt>
+        <dd>&#x4E2D;&#x56FD;</dd>
+        <dt>&#x6D32;</dt>
+        <dd>&#x4E9A;&#x6D32;</dd>
+        <dt>&#x9644;&#x5C5E;&#x5355;&#x4F4D;</dt>
+        <dd>1 Yuan = 10 jiao or 100 fen</dd>
+        <dt>&#x6807;&#x5FD7;</dt>
+        <dd>&#xA5;</dd>
+    </dl>
+    
+    <p>
+        &#x5728;&#x4E2D;&#x534E;&#x6C11;&#x56FD;&#x65F6;&#x4EE3;&#xFF0C;&#x4E0D;&#x540C;&#x79CD;&#x7C7B;&#x7684;&#x8D27;&#x5E01;&#x6D41;&#x901A;&#x4E8E;&#x4E2D;&#x56FD;&#x3002;&#x5B83;&#x4EEC;&#x7684;&#x5927;&#x591A;&#x6570;&#x90FD;&#x88AB;&#x79F0;&#x4E3A;&#x201C;&#x5143;&#x201D;&#x3002;1948&#x5E74;&#x4E2D;&#x56FD;&#x4EBA;&#x6C11;&#x94F6;&#x884C;&#x5F00;&#x59CB;&#x53D1;&#x884C;&#x7EDF;&#x4E00;&#x7684;&#x8D27;&#x5E01;&#x4EBA;&#x6C11;&#x5E01;&#x3002;&#x5728;&#x6C49;&#x8BED;&#x91CC;&#x5143;&#x7684;&#x5B57;&#x9762;&#x610F;&#x601D;&#x4E3A;&#x201C;&#x5706;&#x7684;&#x7269;&#x4F53;&#x201D;&#x6216;&#x8005;&#x201C;&#x5706;&#x7684;&#x786C;&#x5E01;&#x201D;&#x3002;
+    </p>
+    <ul>
+        <li>
+            <a title="&#x4EBA;&#x6C11;&#x5E01; &#x6C47;&#x7387; (CNY)" href="/zh-CN/CNY/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87">CNY &#x6C47;&#x7387;</a>
+        </li>
+        
+    </ul>
+</aside>
+    </div>
+</div>
+
+
+                <div class="adslot ">
+<!-- CN_CurrencyPair_Slot2 -->            <ins class="adsbygoogle adstyle" data-ad-client="ca-pub-2933058854110899" data-ad-slot="7652461301" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+                <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+        </div>
+
+
+        <section>
+            <header>
+    <h3>&#x7F8E;&#x5143; &#x5230;&#x4EBA;&#x6C11;&#x5E01; &#x7684;&#x6C47;&#x7387;&#x8D70;&#x52BF;&#x56FE;</h3>
+</header>
+<figure>
+    <div>
+        <img src="/exchange-rate-chart/zh-CN/USD/USD-CNY.svg?ts=638804751317407243" title="USD&#x4E3A;CNY" alt="120-day exchange rate history for &#x7F8E;&#x5143; to &#x4EBA;&#x6C11;&#x5E01;"/>
+    </div>
+    <figcaption>120-day exchange rate history for USD to CNY</figcaption>
+</figure>
+        </section>
+        
+        <section>
+            <header>
+    <h3>&#x7F8E;&#x5143;&#x5230;&#x4EBA;&#x6C11;&#x5E01;&#x7684;&#x6C47;&#x7387;&#xFF1A;1 USD = 7.3486946 CNY</h3>
+</header>
+<table class="quick-rate">
+    <tr><th>USD</th><th>CNY</th></tr>
+                <tr><td>US$ 1</td><td>&#xA5; 7.35</td></tr>
+                <tr><td>US$ 5</td><td>&#xA5; 36.74</td></tr>
+                <tr><td>US$ 10</td><td>&#xA5; 73.49</td></tr>
+                <tr><td>US$ 50</td><td>&#xA5; 367.43</td></tr>
+                <tr><td>US$ 100</td><td>&#xA5; 734.87</td></tr>
+                <tr><td>US$ 250</td><td>&#xA5; 1,837.17</td></tr>
+                <tr><td>US$ 500</td><td>&#xA5; 3,674.35</td></tr>
+                <tr><td>US$ 1,000</td><td>&#xA5; 7,348.69</td></tr>
+                <tr><td>US$ 5,000</td><td>&#xA5; 36,743.47</td></tr>
+                <tr><td>US$ 10,000</td><td>&#xA5; 73,486.95</td></tr>
+                <tr><td>US$ 50,000</td><td>&#xA5; 367,434.73</td></tr>
+                <tr><td>US$ 100,000</td><td>&#xA5; 734,869.46</td></tr>
+                <tr><td>US$ 500,000</td><td>&#xA5; 3,674,347.28</td></tr>
+                <tr><td>US$ 1,000,000</td><td>&#xA5; 7,348,694.56</td></tr>
+</table>
+<footer>
+        <label>&#x6700;&#x8FD1;&#x66F4;&#x65B0;</label>
+        <time datetime="2025-04-17 09:19:48Z">2025/4/17 &#x4E0A;&#x5348;9:19:48</time>
+</footer>
+        </section>
+
+</main>
+
+        <div class="adslot ">
+<!-- CN_CurrencyPair_Slot3 -->            <ins class="adsbygoogle adstyle" data-ad-client="ca-pub-2933058854110899" data-ad-slot="4698994902" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+                <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+        </div>
+
+
+<nav>
+        <div>
+        <h4>&#x4E9A;&#x6D32;</h4>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5B5F;&#x52A0;&#x62C9;&#x5854;&#x5361;" href="/zh-CN/USD/BDT">&#x5B5F;&#x52A0;&#x62C9;&#x5854;&#x5361; - BDT</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x4EBA;&#x6C11;&#x5E01;" href="/zh-CN/USD/CNY">&#x4EBA;&#x6C11;&#x5E01; - CNY</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6E2F;&#x5143;" href="/zh-CN/USD/HKD">&#x6E2F;&#x5143; - HKD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5370;&#x5C3C;&#x76FE;" href="/zh-CN/USD/IDR">&#x5370;&#x5C3C;&#x76FE; - IDR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5370;&#x5EA6;&#x5362;&#x6BD4;" href="/zh-CN/USD/INR">&#x5370;&#x5EA6;&#x5362;&#x6BD4; - INR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x65E5;&#x5143;" href="/zh-CN/USD/JPY">&#x65E5;&#x5143; - JPY</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x67EC;&#x57D4;&#x5BE8;&#x745E;&#x723E;" href="/zh-CN/USD/KHR">&#x67EC;&#x57D4;&#x5BE8;&#x745E;&#x723E; - KHR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x97E9;&#x5143;" href="/zh-CN/USD/KRW">&#x97E9;&#x5143; - KRW</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5BEE;&#x570B;&#x57FA;&#x666E;" href="/zh-CN/USD/LAK">&#x5BEE;&#x570B;&#x57FA;&#x666E; - LAK</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x65AF;&#x91CC;&#x5170;&#x5361;&#x5362;&#x6BD4;" href="/zh-CN/USD/LKR">&#x65AF;&#x91CC;&#x5170;&#x5361;&#x5362;&#x6BD4; - LKR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x99AC;&#x723E;&#x5730;&#x592B;&#x62C9;&#x83F2;&#x4E9E;" href="/zh-CN/USD/MVR">&#x99AC;&#x723E;&#x5730;&#x592B;&#x62C9;&#x83F2;&#x4E9E; - MVR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x9A6C;&#x6765;&#x897F;&#x4E9A;&#x6797;&#x5409;&#x7279;" href="/zh-CN/USD/MYR">&#x9A6C;&#x6765;&#x897F;&#x4E9A;&#x6797;&#x5409;&#x7279; - MYR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5C3C;&#x6CCA;&#x5C14;&#x5362;&#x6BD4;" href="/zh-CN/USD/NPR">&#x5C3C;&#x6CCA;&#x5C14;&#x5362;&#x6BD4; - NPR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x83F2;&#x5F8B;&#x5BBE;&#x6BD4;&#x7D22;" href="/zh-CN/USD/PHP">&#x83F2;&#x5F8B;&#x5BBE;&#x6BD4;&#x7D22; - PHP</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5DF4;&#x57FA;&#x65AF;&#x5766;&#x5362;&#x6BD4;" href="/zh-CN/USD/PKR">&#x5DF4;&#x57FA;&#x65AF;&#x5766;&#x5362;&#x6BD4; - PKR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x65B0;&#x52A0;&#x5761;&#x5143;" href="/zh-CN/USD/SGD">&#x65B0;&#x52A0;&#x5761;&#x5143; - SGD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6CF0;&#x94E2;" href="/zh-CN/USD/THB">&#x6CF0;&#x94E2; - THB</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x65B0;&#x81FA;&#x5E63;" href="/zh-CN/USD/TWD">&#x65B0;&#x81FA;&#x5E63; - TWD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x8D8A;&#x5357;&#x76FE;" href="/zh-CN/USD/VND">&#x8D8A;&#x5357;&#x76FE; - VND</a>
+    </div>
+    <div>
+        <h4>&#x6B27;&#x6D32;</h4>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6CE2;&#x65AF;&#x5C3C;&#x4E9A;&#x548C;&#x9ED1;&#x585E;&#x54E5;&#x7EF4;&#x90A3;&#x53EF;&#x5151;&#x6362;&#x9A6C;&#x514B;" href="/zh-CN/USD/BAM">&#x6CE2;&#x65AF;&#x5C3C;&#x4E9A;&#x548C;&#x9ED1;&#x585E;&#x54E5;&#x7EF4;&#x90A3;&#x53EF;&#x5151;&#x6362;&#x9A6C;&#x514B; - BAM</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x4FDD;&#x52A0;&#x5229;&#x4E9E;&#x5217;&#x5F17;" href="/zh-CN/USD/BGN">&#x4FDD;&#x52A0;&#x5229;&#x4E9E;&#x5217;&#x5F17; - BGN</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x745E;&#x58EB;&#x6CD5;&#x90CE;" href="/zh-CN/USD/CHF">&#x745E;&#x58EB;&#x6CD5;&#x90CE; - CHF</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6377;&#x514B;&#x514B;&#x6717;" href="/zh-CN/USD/CZK">&#x6377;&#x514B;&#x514B;&#x6717; - CZK</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x4E39;&#x9EA6;&#x514B;&#x6717;" href="/zh-CN/USD/DKK">&#x4E39;&#x9EA6;&#x514B;&#x6717; - DKK</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6B27;&#x5143;" href="/zh-CN/USD/EUR">&#x6B27;&#x5143; - EUR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x82F1;&#x9551;" href="/zh-CN/USD/GBP">&#x82F1;&#x9551; - GBP</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x514B;&#x7F85;&#x57C3;&#x897F;&#x4E9E;&#x5EAB;&#x7D0D;" href="/zh-CN/USD/HRK">&#x514B;&#x7F85;&#x57C3;&#x897F;&#x4E9E;&#x5EAB;&#x7D0D; - HRK</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5308;&#x7259;&#x5229;&#x798F;&#x6797;" href="/zh-CN/USD/HUF">&#x5308;&#x7259;&#x5229;&#x798F;&#x6797; - HUF</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x51B0;&#x5C9B;&#x514B;&#x6717;" href="/zh-CN/USD/ISK">&#x51B0;&#x5C9B;&#x514B;&#x6717; - ISK</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6469;&#x723E;&#x591A;&#x74E6;&#x5217;&#x4F0A;" href="/zh-CN/USD/MDL">&#x6469;&#x723E;&#x591A;&#x74E6;&#x5217;&#x4F0A; - MDL</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x99AC;&#x5176;&#x9813;&#x4EE3;&#x7D0D;&#x723E;" href="/zh-CN/USD/MKD">&#x99AC;&#x5176;&#x9813;&#x4EE3;&#x7D0D;&#x723E; - MKD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x632A;&#x5A01;&#x514B;&#x6717;" href="/zh-CN/USD/NOK">&#x632A;&#x5A01;&#x514B;&#x6717; - NOK</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6CE2;&#x5170;&#x5179;&#x7F57;&#x63D0;" href="/zh-CN/USD/PLN">&#x6CE2;&#x5170;&#x5179;&#x7F57;&#x63D0; - PLN</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x7F57;&#x9A6C;&#x5C3C;&#x4E9A;&#x5217;&#x4F0A;" href="/zh-CN/USD/RON">&#x7F57;&#x9A6C;&#x5C3C;&#x4E9A;&#x5217;&#x4F0A; - RON</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x585E;&#x723E;&#x7DAD;&#x4E9E;&#x7B2C;&#x7D0D;&#x723E;" href="/zh-CN/USD/RSD">&#x585E;&#x723E;&#x7DAD;&#x4E9E;&#x7B2C;&#x7D0D;&#x723E; - RSD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x4FC4;&#x7F57;&#x65AF;&#x5362;&#x5E03;" href="/zh-CN/USD/RUB">&#x4FC4;&#x7F57;&#x65AF;&#x5362;&#x5E03; - RUB</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x745E;&#x5178;&#x514B;&#x6717;" href="/zh-CN/USD/SEK">&#x745E;&#x5178;&#x514B;&#x6717; - SEK</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x571F;&#x8033;&#x5176;&#x91CC;&#x62C9;" href="/zh-CN/USD/TRY">&#x571F;&#x8033;&#x5176;&#x91CC;&#x62C9; - TRY</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x4E4C;&#x514B;&#x5170;&#x683C;&#x91CC;&#x592B;&#x7EB3;" href="/zh-CN/USD/UAH">&#x4E4C;&#x514B;&#x5170;&#x683C;&#x91CC;&#x592B;&#x7EB3; - UAH</a>
+    </div>
+    <div>
+        <h4>&#x5317;&#x7F8E;&#x6D32;</h4>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x963F;&#x9B6F;&#x5DF4;&#x5F17;&#x7F85;&#x6797;" href="/zh-CN/USD/AWG">&#x963F;&#x9B6F;&#x5DF4;&#x5F17;&#x7F85;&#x6797; - AWG</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5DF4;&#x5DF4;&#x591A;&#x65AF;&#x5143;" href="/zh-CN/USD/BBD">&#x5DF4;&#x5DF4;&#x591A;&#x65AF;&#x5143; - BBD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x767E;&#x6155;&#x9054;&#x5143;" href="/zh-CN/USD/BMD">&#x767E;&#x6155;&#x9054;&#x5143; - BMD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5DF4;&#x54C8;&#x99AC;&#x5143;" href="/zh-CN/USD/BSD">&#x5DF4;&#x54C8;&#x99AC;&#x5143; - BSD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x52A0;&#x5143;" href="/zh-CN/USD/CAD">&#x52A0;&#x5143; - CAD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x591A;&#x660E;&#x5C3C;&#x52A0;&#x6BD4;&#x7D22;" href="/zh-CN/USD/DOP">&#x591A;&#x660E;&#x5C3C;&#x52A0;&#x6BD4;&#x7D22; - DOP</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x74DC;&#x5730;&#x99AC;&#x62C9;&#x683C;&#x67E5;&#x723E;" href="/zh-CN/USD/GTQ">&#x74DC;&#x5730;&#x99AC;&#x62C9;&#x683C;&#x67E5;&#x723E; - GTQ</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x7259;&#x4E70;&#x52A0;&#x5143;" href="/zh-CN/USD/JMD">&#x7259;&#x4E70;&#x52A0;&#x5143; - JMD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x58A8;&#x897F;&#x54E5;&#x6BD4;&#x7D22;" href="/zh-CN/USD/MXN">&#x58A8;&#x897F;&#x54E5;&#x6BD4;&#x7D22; - MXN</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5DF4;&#x62FF;&#x9A6C;&#x6CE2;&#x4E9A;" href="/zh-CN/USD/PAB">&#x5DF4;&#x62FF;&#x9A6C;&#x6CE2;&#x4E9A; - PAB</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x7F8E;&#x5143;" href="/zh-CN/USD/USD">&#x7F8E;&#x5143; - USD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x4E1C;&#x52A0;&#x52D2;&#x6BD4;&#x6D77;&#x5143;" href="/zh-CN/USD/XCD">&#x4E1C;&#x52A0;&#x52D2;&#x6BD4;&#x6D77;&#x5143; - XCD</a>
+    </div>
+    <div>
+        <h4>&#x5927;&#x6D0B;&#x6D32;</h4>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6FB3;&#x5143;" href="/zh-CN/USD/AUD">&#x6FB3;&#x5143; - AUD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6590;&#x6FDF;&#x5143;" href="/zh-CN/USD/FJD">&#x6590;&#x6FDF;&#x5143; - FJD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x65B0;&#x897F;&#x5170;&#x5143;" href="/zh-CN/USD/NZD">&#x65B0;&#x897F;&#x5170;&#x5143; - NZD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x592A;&#x5E73;&#x6D0B;&#x6CD5;&#x90CE;" href="/zh-CN/USD/XPF">&#x592A;&#x5E73;&#x6D0B;&#x6CD5;&#x90CE; - XPF</a>
+    </div>
+    <div>
+        <h4>&#x5357;&#x7F8E;&#x6D32;</h4>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x963F;&#x6839;&#x5EF7;&#x6BD4;&#x7D22;" href="/zh-CN/USD/ARS">&#x963F;&#x6839;&#x5EF7;&#x6BD4;&#x7D22; - ARS</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x73BB;&#x5229;&#x7DAD;&#x4E9E;&#x8AFE;" href="/zh-CN/USD/BOB">&#x73BB;&#x5229;&#x7DAD;&#x4E9E;&#x8AFE; - BOB</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5DF4;&#x897F;&#x96F7;&#x4E9A;&#x5C14;" href="/zh-CN/USD/BRL">&#x5DF4;&#x897F;&#x96F7;&#x4E9A;&#x5C14; - BRL</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x667A;&#x5229;&#x6BD4;&#x7D22;" href="/zh-CN/USD/CLP">&#x667A;&#x5229;&#x6BD4;&#x7D22; - CLP</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x54E5;&#x4F26;&#x6BD4;&#x4E9A;&#x6BD4;&#x7D22;" href="/zh-CN/USD/COP">&#x54E5;&#x4F26;&#x6BD4;&#x4E9A;&#x6BD4;&#x7D22; - COP</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x79D8;&#x9C81;&#x7D22;&#x5C14;" href="/zh-CN/USD/PEN">&#x79D8;&#x9C81;&#x7D22;&#x5C14; - PEN</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5DF4;&#x62C9;&#x572D;&#x74DC;&#x62C9;&#x5C3C;" href="/zh-CN/USD/PYG">&#x5DF4;&#x62C9;&#x572D;&#x74DC;&#x62C9;&#x5C3C; - PYG</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x7279;&#x7ACB;&#x5C3C;&#x8FBE;&#x548C;&#x591A;&#x5DF4;&#x54E5;&#x5143;" href="/zh-CN/USD/TTD">&#x7279;&#x7ACB;&#x5C3C;&#x8FBE;&#x548C;&#x591A;&#x5DF4;&#x54E5;&#x5143; - TTD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x70CF;&#x62C9;&#x572D;&#x6BD4;&#x7D22;" href="/zh-CN/USD/UYU">&#x70CF;&#x62C9;&#x572D;&#x6BD4;&#x7D22; - UYU</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x59D4;&#x5185;&#x745E;&#x62C9;&#x73BB;&#x5229;&#x74E6;&#x5C14;" href="/zh-CN/USD/VES">&#x59D4;&#x5185;&#x745E;&#x62C9;&#x73BB;&#x5229;&#x74E6;&#x5C14; - VES</a>
+    </div>
+    <div>
+        <h4>&#x4E2D;&#x4E1C;</h4>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x963F;&#x8054;&#x914B;&#x8FEA;&#x62C9;&#x59C6;" href="/zh-CN/USD/AED">&#x963F;&#x8054;&#x914B;&#x8FEA;&#x62C9;&#x59C6; - AED</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5DF4;&#x6797;&#x7B2C;&#x7EB3;&#x5C14;" href="/zh-CN/USD/BHD">&#x5DF4;&#x6797;&#x7B2C;&#x7EB3;&#x5C14; - BHD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x4EE5;&#x8272;&#x5217;&#x8C22;&#x514B;&#x5C14;" href="/zh-CN/USD/ILS">&#x4EE5;&#x8272;&#x5217;&#x8C22;&#x514B;&#x5C14; - ILS</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x4F0A;&#x6717;&#x91CC;&#x4E9E;&#x723E;" href="/zh-CN/USD/IRR">&#x4F0A;&#x6717;&#x91CC;&#x4E9E;&#x723E; - IRR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x7EA6;&#x65E6;&#x7B2C;&#x7EB3;&#x5C14;" href="/zh-CN/USD/JOD">&#x7EA6;&#x65E6;&#x7B2C;&#x7EB3;&#x5C14; - JOD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x79D1;&#x5A01;&#x7279;&#x7B2C;&#x7EB3;&#x5C14;" href="/zh-CN/USD/KWD">&#x79D1;&#x5A01;&#x7279;&#x7B2C;&#x7EB3;&#x5C14; - KWD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x9ECE;&#x5DF4;&#x5AE9;&#x9551;" href="/zh-CN/USD/LBP">&#x9ECE;&#x5DF4;&#x5AE9;&#x9551; - LBP</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x963F;&#x66FC;&#x91CC;&#x4E9A;&#x5C14;" href="/zh-CN/USD/OMR">&#x963F;&#x66FC;&#x91CC;&#x4E9A;&#x5C14; - OMR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5361;&#x5854;&#x5C14;&#x91CC;&#x4E9A;&#x5C14;" href="/zh-CN/USD/QAR">&#x5361;&#x5854;&#x5C14;&#x91CC;&#x4E9A;&#x5C14; - QAR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6C99;&#x7279;&#x91CC;&#x4E9A;&#x5C14;" href="/zh-CN/USD/SAR">&#x6C99;&#x7279;&#x91CC;&#x4E9A;&#x5C14; - SAR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6558;&#x5229;&#x4E9E;&#x938A;" href="/zh-CN/USD/SYP">&#x6558;&#x5229;&#x4E9E;&#x938A; - SYP</a>
+    </div>
+    <div>
+        <h4>&#x975E;&#x6D32;</h4>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6CE2;&#x672D;&#x90A3;&#x666E;&#x62C9;" href="/zh-CN/USD/BWP">&#x6CE2;&#x672D;&#x90A3;&#x666E;&#x62C9; - BWP</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x57C3;&#x53CA;&#x938A;" href="/zh-CN/USD/EGP">&#x57C3;&#x53CA;&#x938A; - EGP</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x8FE6;&#x7D0D;&#x585E;&#x5730;" href="/zh-CN/USD/GHS">&#x8FE6;&#x7D0D;&#x585E;&#x5730; - GHS</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x7518;&#x6BD4;&#x4E9E;&#x9054;&#x62C9;&#x897F;" href="/zh-CN/USD/GMD">&#x7518;&#x6BD4;&#x4E9E;&#x9054;&#x62C9;&#x897F; - GMD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x80AF;&#x5C3C;&#x4E9A;&#x5148;&#x4EE4;" href="/zh-CN/USD/KES">&#x80AF;&#x5C3C;&#x4E9A;&#x5148;&#x4EE4; - KES</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6469;&#x6D1B;&#x54E5;&#x8FEA;&#x62C9;&#x59C6;" href="/zh-CN/USD/MAD">&#x6469;&#x6D1B;&#x54E5;&#x8FEA;&#x62C9;&#x59C6; - MAD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x963F;&#x91CC;&#x4E9E;&#x91CC;" href="/zh-CN/USD/MGA">&#x963F;&#x91CC;&#x4E9E;&#x91CC; - MGA</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x6A21;&#x91CC;&#x897F;&#x65AF;&#x76E7;&#x6BD4;" href="/zh-CN/USD/MUR">&#x6A21;&#x91CC;&#x897F;&#x65AF;&#x76E7;&#x6BD4; - MUR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x7EB3;&#x7C73;&#x6BD4;&#x4E9A;&#x5143;" href="/zh-CN/USD/NAD">&#x7EB3;&#x7C73;&#x6BD4;&#x4E9A;&#x5143; - NAD</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5948;&#x53CA;&#x5229;&#x4E9E;&#x5948;&#x62C9;" href="/zh-CN/USD/NGN">&#x5948;&#x53CA;&#x5229;&#x4E9E;&#x5948;&#x62C9; - NGN</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x585E;&#x5E2D;&#x723E;&#x76E7;&#x6BD4;" href="/zh-CN/USD/SCR">&#x585E;&#x5E2D;&#x723E;&#x76E7;&#x6BD4; - SCR</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x7A81;&#x5C3C;&#x65AF;&#x7B2C;&#x7D0D;&#x723E;" href="/zh-CN/USD/TND">&#x7A81;&#x5C3C;&#x65AF;&#x7B2C;&#x7D0D;&#x723E; - TND</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x70CF;&#x5E72;&#x9054;&#x5148;&#x4EE4;" href="/zh-CN/USD/UGX">&#x70CF;&#x5E72;&#x9054;&#x5148;&#x4EE4; - UGX</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x4E2D;&#x975E;&#x6CD5;&#x90CE;" href="/zh-CN/USD/XAF">&#x4E2D;&#x975E;&#x6CD5;&#x90CE; - XAF</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x897F;&#x975E;&#x6CD5;&#x90CE;" href="/zh-CN/USD/XOF">&#x897F;&#x975E;&#x6CD5;&#x90CE; - XOF</a>
+            <a title="&#x8F6C;&#x6362; &#x7F8E;&#x5143; &#x4E3A;&#x5357;&#x975E;&#x5357;&#x7279;" href="/zh-CN/USD/ZAR">&#x5357;&#x975E;&#x5357;&#x7279; - ZAR</a>
+    </div>
+
+</nav>
+
+    <footer b-unfh2f7zx5>
+        <nav>
+        <a title="Chinese Home Page" href="/zh-CN">&#x9996;&#x9875;</a>
+        <a title="Chinese Contact Page" href="/zh-CN/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC">&#x8054;&#x7CFB;&#x6211;&#x4EEC;</a>
+        <a title="Chinese Disclaimer Page" href="/zh-CN/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">&#x514D;&#x8D23;&#x58F0;&#x660E;</a>
+        <a title="Chinese Privacy Policy Page" href="/zh-CN/%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96">&#x9690;&#x79C1;&#x653F;&#x7B56;</a>
+        <a title="Chinese Web Tools Page" href="/zh-CN/%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99%E6%8E%A7%E5%88%B6">&#x514D;&#x8D39;&#x7F51;&#x7AD9;&#x63A7;&#x5236;</a>
+</nav>
+<nav>
+        <a title="en-US" href="/USD/CNY">English</a>
+        <a title="es-ES" href="/es/USD/CNY">espa&#xF1;ol</a>
+        <a title="de-DE" href="/de/USD/CNY">Deutsch</a>
+        <a title="fr-FR" href="/fr/USD/CNY">fran&#xE7;ais</a>
+</nav>
+<div>
+    <span><a href="https://www.xignite.com" title="Forex Data by Xignite" target="_blank">Forex Data</a> by Xignite</span>
+    <span>&#169; The Money Converter 2025. All rights reserved</span>
+</div>
+    </footer>
+
+
+            <script src="https://themoneyconverter.com/js/tmc-13.3.min.js"></script>
+        <script>
+            try {
+                var converter = new themoneyconverter.MaxiConverter.Control({ language: "zh-CN" }); 
+                if (converter) {
+                    var tags = document.getElementsByTagName("time");
+                    for (let i = 0; i < tags.length; i++) {
+                       var date = new Date(themoneyconverter.attr(tags[i], "datetime"));
+                       tags[i].innerHTML = date.toLocaleDateString(converter.settings.locale) + " " + date.toLocaleTimeString(converter.settings.locale);
+                    }
+                {}}
+            } catch (e) {}
+        </script>
+
+</body>
+</html>
