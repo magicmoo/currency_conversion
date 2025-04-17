@@ -18,13 +18,13 @@ def get_rate(src: str, tgt: str) -> float:
 	return rate
 
 @mcp.tool()
-async def conver(val: float, src: str, tgt: str) -> float:
+def conver(val: float = 1.0, src: str = 'USD', tgt: str = 'CNY') -> float:
 	"""
 	src和tgt均为币种的英文缩写
 	该函数可以将数量为val的src币种转化为tgt币种并返回
 	以下为常用币种的英文缩写
-	JPY = '日元' KRW = '韩元' CNY = '人民币'
-	EUR = '欧元' HKD = '港元' USD = '美元'
+	JPY = 日元 KRW = 韩元 CNY = 人民币
+	EUR = 欧元 HKD = 港元 USD = 美元
 	"""
 
 	rate = get_rate(src, tgt)
@@ -33,6 +33,7 @@ async def conver(val: float, src: str, tgt: str) -> float:
 
 
 if __name__ == "__main__":
-	mcp.run()
-	# conver('CNY', 'JPY')
+	# mcp.run()
+	ans = conver(1, 'CNY', 'JPY')
+	print(ans)
 
