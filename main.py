@@ -18,7 +18,7 @@ def get_rate(src: str, tgt: str) -> float:
 	return rate
 
 @mcp.tool()
-def conver(val: float, src: str, tgt: str) -> float:
+async def conver(val: float, src: str, tgt: str) -> float:
 	"""
 	src和tgt均为币种的英文缩写
 	该函数可以将数量为val的src币种转化为tgt币种并返回
